@@ -1,0 +1,9 @@
+{
+  "name": "react-data-tools",
+  "version": "0.0.1",
+  "description": "A project to simplify and structurize data binding and business logic in your react components.",
+  "main": "index.js",
+  "author": "Dogancan Arabaci",
+  "license": "MIT",
+  "private": false
+}
